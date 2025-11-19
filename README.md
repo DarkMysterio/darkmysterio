@@ -78,10 +78,10 @@ I am currently architecting a **Distributed Energy Management System**, a comple
 <div align="center">
 
 ### 📫 Let's Connect!
-
+a
 *Open to opportunities in Backend Engineering and Distributed Systems.*
 
 [<img src="https://img.shields.io/badge/Email-vonicapaul%40yahoo.com-red?style=for-the-badge&logo=gmail" />](mailto:vonicapaul@yahoo.com)
-[<img src="https://img.shields.io/badge/LinkedIn-Ioan--Paul%20Vonica-blue?style=for-the-badge&logo=linkedin" />]([https://www.linkedin.com/in/vonicapaul/](https://www.linkedin.com/in/ioan-paul-vonica-b21a6b23b/))
+[<img src="https://img.shields.io/badge/LinkedIn-Ioan--Paul%20Vonica-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/ioan-paul-vonica-b21a6b23b/)
 
 </div>
