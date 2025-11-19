@@ -8,6 +8,17 @@ I specialize in designing resilient **backend systems** and **distributed archit
 
 ---
 
+### 🛠️ Technical Arsenal
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=5C3EE8) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **Concepts** | `Microservices` `Hexagonal Architecture` `Distributed Systems` `Concurrency` `Design Patterns` |
+
+---
+
 ### 🔭 Current Flagship Project: Energy Management System
 
 I am currently architecting a **Distributed Energy Management System**, a complex microservices-based platform designed to monitor and optimize energy consumption for smart grids.
@@ -31,17 +42,6 @@ I am currently architecting a **Distributed Energy Management System**, a comple
 
 **Volunteer Cybersecurity Educator @ Google.org** *(Jan 2025 - Jul 2025)*
 * Teached seminars on Phishing detection, MFA implementation, and Password Hardening.
-
----
-
-### 🛠️ Technical Arsenal
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=5C3EE8) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| **Concepts** | `Microservices` `Hexagonal Architecture` `Distributed Systems` `Concurrency` `Design Patterns` |
 
 ---
 
