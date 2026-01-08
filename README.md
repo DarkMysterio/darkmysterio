@@ -40,7 +40,7 @@ I am currently architecting a **Distributed Energy Management System**, a comple
 * **Architecture:** Utilizing **Hexagonal Architecture** to decouple business logic from external protocols.
 * **Reliability:** Hardening configurations with JAXB/XSD validation and exposing operational data via **Prometheus**.
 
-**Volunteer Cybersecurity Educator @ Google.org** *(Jan 2025 - Jul 2025)*
+**Lead Cybersecurity Educator @ Google.org** *(Jan 2025 - Jul 2025)*
 * Teached seminars on Phishing detection, MFA implementation, and Password Hardening.
 
 ---
