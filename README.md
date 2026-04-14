@@ -1,10 +1,10 @@
 ## Hi there, I'm Ioan-Paul Vonica! 👋
 
-### 🎓 Computer Engineering Student | ☁️ DevOps & Software Engineer
+### 🎓 Computer Engineering Student | ☁️ Software & DevOps Engineer
 
-I am a final-year **Computer Engineering student** at the Technical University of Cluj-Napoca (Class of 2026) and a **DevOps Engineering Intern** at **BMW TechWorks Romania**.
+I am a final-year **Computer Engineering student** at the Technical University of Cluj-Napoca (Class of 2026) and a **Software Engineering Intern** at **Flutter UK & Ireland (Betfair Romania Development)**.
 
-I specialize in designing resilient **backend systems** and **distributed architectures**. My passion lies in bridging the gap between low-level system operations and scalable, user-centric applications, whether through **Java Spring Boot microservices**, **Cloud Infrastructure**, or **Systems programming**.
+I specialize in designing resilient **backend systems** and **distributed architectures**. My passion lies in bridging the gap between low-level system operations and scalable, user-centric applications, whether through **Java Spring Boot microservices**, **Event Streaming**, or **Cloud Infrastructure**.
 
 ---
 
@@ -12,34 +12,38 @@ I specialize in designing resilient **backend systems** and **distributed archit
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=5C3EE8) |
-| **Infrastructure** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| **Concepts** | `Microservices` `Hexagonal Architecture` `CI/CD` `Concurrency` `Distributed Systems` |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white) |
+| **Infrastructure & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Concepts** | `Microservices` `Hexagonal Architecture` `CI/CD` `Concurrency` `Event Streaming` `Skill Graph Inference` |
 
 ---
 
-### 🔭 Current Flagship Project: Energy Management System
+### 🔭 Current Flagship Project: AI-Powered Applicant Tracking System (Final Year Project)
 
-I am currently architecting a **Distributed Energy Management System**, a complex microservices-based platform designed to monitor and optimize energy consumption for smart grids.
+I am currently developing my Bachelor's thesis, a **Full Stack CV & Job Management Platform**, designed to revolutionize technical recruitment using NLP and semantic skill-matching.
 
-* **Architecture:** Fully distributed **Microservices Architecture** using **Java Spring Boot**.
-* **Communication:** Implemented synchronous communication via **REST** and asynchronous event-driven data processing using **RabbitMQ/AMQP**.
-* **Resilience:** Configured **NGINX** as a load balancer and implemented **PostgreSQL replication** for high availability and data durability.
-* **Core Features:** Real-time sensor data ingestion, user management, and containerized deployment using **Docker**.
+* **Architecture:** Robust REST API built with **Java 21 & Spring Boot 3.5**, backed by **PostgreSQL** and paired with a modern **React 19 + Vite** frontend.
+* **Intelligent Analysis:** Implements automated text extraction from binary files (PDF/DOCX) combined with **PII sanitization** using RegEx and Apache OpenNLP for data privacy.
+* **Skill Graph Inference:** Engineered a custom inference engine mapping 202 IT skills (Backend, Frontend, AI, DevOps). It provides explainable matching by filtering noise and applying directional relationships (e.g., `Flask -> Python`) with confidence decay for highly accurate candidate screening.
+* **Security & Reliability:** Secured via role-based **JWT Authentication** and local storage persistence, utilizing `LocalCvStorageService` to securely handle and retrieve document binaries without exposing sensitive data.
 
 ---
 
 ### 🚀 Professional Experience
 
-**DevOps Engineering Intern @ BMW TechWorks Romania** *(Dec 2025 - Present)*
-* **Cloud Infrastructure:** Developing proficiency in **Microsoft Azure** and **Kubernetes** to support CI/CD pipelines.
-* **Automation:** Focusing on cloud infrastructure automation to enhance deployment efficiency and scalability.
+**Software Engineering Intern @ Flutter UK & Ireland (Betfair Romania Development)** *(Mar 2026 - Present)*
+* **Observability:** Migrating operational dashboards and metric visualizations from Grafana to **Splunk**, centralizing system monitoring workflows.
+* **Event-Driven Architecture:** Actively developing capabilities in event streaming with **Apache Kafka** and Java Concurrency to support high-performance, real-time backend systems.
+
+**DevOps Engineering Intern @ BMW TechWorks Romania** *(Dec 2025 - Feb 2026)*
+* **Automation:** Automated the Maven build and **Docker** containerization of layered applications.
+* **CI/CD:** Engineered continuous deployment pipelines using **GitHub Actions**, successfully publishing images to the GitHub Container Registry.
 
 **Software Engineering Intern @ Frequentis** *(Jul 2025 - Dec 2025)*
-* **Engineering:** Engineered a hexagonal SNMP metrics gateway streaming real-time telemetry (200 metrics/s) from 40+ devices.
+* **Architecture:** Engineered an SNMP metrics gateway in a hexagonal architecture streaming real-time telemetry (200 metrics/s) from 40+ devices.
 * **Resilience:** Hardened configuration with JAXB/XSD validation and increased reliability by cutting regression time by 40% using JUnit 5/Mockito.
-* **Observability:** Exposed operational data via **Prometheus** and published change events over **AMQP**, enabling downstream dashboard processing.
+* **Telemetry:** Exposed operational data via **Prometheus** and published change events over **AMQP**, enabling downstream dashboard processing.
 
 **Lead Cybersecurity Educator @ Google.org** *(Feb 2025 - Jun 2025)*
 * Led hands-on seminars on Phishing detection and Authentication (MFA, Password Hardening) for 22+ members.
@@ -49,23 +53,22 @@ I am currently architecting a **Distributed Energy Management System**, a comple
 
 ### 📂 Featured Projects
 
-#### 🔗 [Volunteer ID - Soul-Bound Token System](https://github.com/DarkMysterio/blockchainacademia2025)
-*A decentralized volunteer recognition system built on Ethereum.*
-- **Stack:** Solidity, React, Hardhat, IPFS, OpenZeppelin.
-- **Innovation:** Issues non-transferable "Soul-Bound" tokens (SBTs) to volunteers for immutable proof of work.
-- **Tech:** GDPR-compliant architecture with on-chain verification and off-chain encrypted metadata.
+#### ⚡ Distributed Energy Management System
+*A complex microservices-based platform designed to monitor smart grids.*
+- **Stack:** Java Spring Boot, React, Docker, PostgreSQL.
+- **Architecture:** Synchronous REST communication routed through a centralized security gateway (JWT) and asynchronous event-driven pipelines.
+- **Resilience:** Configured NGINX load balancing and implemented database replication for high availability under variable workloads.
 
 #### ⏱️ Queue Management System
 *High-performance concurrent queue simulator.*
 - **Stack:** Java, Concurrency (Threads, Locks, Semaphores).
-- **Performance:** Implemented `ExecutorService` and `BlockingQueue` to ensure safe multi-threaded execution.
+- **Performance:** Implemented `ExecutorService`, `BlockingQueue`, and `CountDownLatch` primitives to ensure safe multi-threaded execution.
 - **Metrics:** Achieved measurable reductions in average wait time compared to naive FIFO implementations.
 
-#### 💾 [Cache Memory Simulator](https://github.com/DarkMysterio/cache-simulator)
-*Interactive GUI tool to visualize CPU cache behavior.*
-- **Stack:** Python, Tkinter.
-- **Complexity:** Simulates hardware behavior including hits/misses with configurable parameters (Block size, K-way associativity).
-- **Algorithms:** Implements **LRU**, **FIFO**, and Random eviction policies alongside Write-through/Write-back strategies.
+#### 🔗 [Volunteer ID - Soul-Bound Token System](https://github.com/DarkMysterio/blockchainacademia2025)
+*A decentralized volunteer recognition system built on Ethereum.*
+- **Stack:** Solidity, React, Hardhat, IPFS, OpenZeppelin.
+- **Innovation:** Issues non-transferable "Soul-Bound" tokens (SBTs) to volunteers for immutable proof of work with GDPR-compliant off-chain data.
 
 ---
 
